@@ -16,6 +16,7 @@ Things that are not entirely finished yet:
 3. The shooting of the Gravity Grenade, it's kind of wonky and doesn't really shoot directly from your camera
 
 Things I did not yet have time to implement:
+Respawning (idk how I forgot this one, but it's a btu too late now, just restart the game if you fall off :)
 A menu
 The music, sounds and graphics (I just used placehodler 3D models from (https://sketchfab.com)
 A settings menu
